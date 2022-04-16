@@ -1,0 +1,53 @@
+
+.TabLeft{
+    padding-left: 200px;
+}
+.TabRight{
+    padding-right: 200px;
+}
+
+.common{
+    background-color: #cccccc;
+    border: solid 2px white;
+    opacity: 80%;
+    position: absolute;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 115px;
+    resize:both;
+}
+
+.body{
+    margin-top: 135px;
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    resize: both;
+    min-height: 100vh;
+    display: flex;
+    flex-direction:column;
+}
+
+.footer{
+    height: 100px;
+    left: 5px;
+    right: 5px;
+    position:relative;
+    background-position: bottom;
+    resize: both;
+    margin-top: auto;
+}
+.caption{
+    font-family: 'Courier New', Courier, monospace;
+    font-style:normal;
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}

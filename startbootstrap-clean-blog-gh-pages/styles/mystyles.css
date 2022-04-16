@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+/*this will be applied to the about and index page*/
+.post-title{
+    font-family:serif;
+}
+.post-subtitle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
+
+.heading{
+    text-decoration: solid;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.paddingSpace{
+    padding: 40px;
+    padding-left: 70px;
+    border: black;
+    border-style:groove;
+}
+.Marble{
+    background-image: url(../images/marble.jpeg);
+    background-size: cover;
+}
+
